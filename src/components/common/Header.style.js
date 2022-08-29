@@ -5,6 +5,7 @@ export const NavStyled = styled.nav`
   justify-content: space-between;
   align-items: center;
   background-color: #313132;
+  border-radius: 5px;
 `;
 
 export const UlStyled = styled.ul`
